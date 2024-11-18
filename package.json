@@ -1,0 +1,30 @@
+{
+  "name": "com.clumsywolf.savemanager",
+  "version": "0.1.0",
+  "displayName": "Save Manager",
+  "description": "Manager to handle saving mechanismes.",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/misteurLeu/UnitySaveManager/blob/main/README.md",
+  "changelogUrl": "https://github.com/misteurLeu/UnitySaveManager/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/misteurLeu/UnitySaveManager/blob/main/LICENCE",
+  "author": {
+    "name": "MisterLeu",
+    "email": "leu.jeremy@gmail.com",
+    "url": "https://github.com/misteurLeu"
+  },
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "usage example",
+      "path": "Samples~/Example"
+    },
+    {
+      "displayName": "Manager prefab",
+      "description": "A prefab ready to used",
+      "path": "Samples~/Manager prefab"
+    }
+  ],
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
